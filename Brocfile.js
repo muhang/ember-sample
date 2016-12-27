@@ -39,6 +39,7 @@ var svgIcons = svgmerge('public/assets/icons/', {
 });
 
 app.import('bower_components/moment/moment.js');
+app.import('bower_components/progressbar.js/dist/progressbar.js');
 app.import('bower_components/highcharts/highcharts.js');
 app.import('bower_components/bower-jvectormap/jquery-jvectormap-1.2.2.min.js');
 app.import('bower_components/bower-jvectormap/jquery-jvectormap-world-mill-en.js');
