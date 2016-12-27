@@ -1,0 +1,51 @@
+{
+  "name": "pair-test",
+  "version": "0.0.0",
+  "description": "Small description for pair-test goes here",
+  "private": true,
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "ember server",
+    "build": "ember build",
+    "test": "ember test"
+  },
+  "repository": "",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli-asset-rev": "^1.0.0",
+    "broccoli-merge-trees": "^0.1.4",
+    "broccoli-sass": "^0.2.0",
+    "broccoli-static-compiler": "^0.1.4",
+    "broccoli-svgmerge": "git://github.com/danstever/broccoli-svgmerge.git",
+    "connect-restreamer": "^1.0.1",
+    "ember-cli": "^0.2.7",
+    "ember-cli-chart": "^1.0.6",
+    "ember-cli-compass-bootstrap": "0.0.5",
+    "ember-cli-content-security-policy": "0.3.0",
+    "ember-cli-datepicker": "^1.3.2",
+    "ember-cli-dependency-checker": "0.0.6",
+    "ember-cli-htmlbars": "^0.7.9",
+    "ember-cli-ic-ajax": "0.1.1",
+    "ember-cli-inject-live-reload": "^1.3.0",
+    "ember-cli-qunit": "^0.3.8",
+    "ember-cli-simple-auth": "0.7.3",
+    "ember-cli-simple-auth-testing": "0.7.3",
+    "ember-cli-uglify": "^1.0.1",
+    "ember-data": "1.13.13",
+    "ember-export-application-global": "^1.0.0",
+    "ember-localstorage-adapter": "^0.5.0",
+    "ember-radio-buttons": "^3.0.0",
+    "express": "^4.8.5",
+    "glob": "^4.0.5",
+    "mocha-jshint": "^1.0.0",
+    "morgan": "^1.5.1"
+
+  }
+}
